@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(231, 111, 81);
+  background-color: rgb(109, 104, 117);
+  font-family: Georgia;
 }
 
 
@@ -15,16 +16,23 @@ body {
 }
 
 .card {
-  background-color: rgb(233, 196, 106);
-  border: 5px  rgb(244, 162, 97);
-  border-style: outset;
+  background-color: rgb(229, 152, 155);
+  border: 5px  rgb(181, 131, 141);
+  border-style: groove;
   margin: 12px;
   padding: 8px;
+  font-size: 17px;
 }
 
 .jumbotron {
-  border: 10px solid;
+  background-color: rgb(229, 152, 155);
+  border: 5px  rgb(181, 131, 141);
+  border-style: groove;
   margin: 12px;
   padding: 8px;
+  text-align: center;
+}
+
+.card-title {
   text-align: center;
 }
