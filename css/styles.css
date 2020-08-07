@@ -1,3 +1,7 @@
-.jumbotron {
-  float-
+img {
+  float: right;
+  margin: 12px;
+  padding: 4px;
+  box-sizing: border-box;
 }
+
