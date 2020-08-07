@@ -8,7 +8,7 @@ body {
   float: right;
   margin: 12px;
   padding: 4px;
-  border: 5px rgb(181, 131, 141);
+  border: 6px rgb(181, 131, 141);
   border-style: groove;
 }
 
@@ -19,7 +19,7 @@ body {
 
 .card {
   background-color: rgb(229, 152, 155);
-  border: 5px  rgb(181, 131, 141);
+  border: 6px  rgb(181, 131, 141);
   border-style: groove;
   margin: 12px;
   padding: 8px;
@@ -28,7 +28,7 @@ body {
 
 .jumbotron {
   background-color: rgb(229, 152, 155);
-  border: 5px  rgb(181, 131, 141);
+  border: 6px  rgb(181, 131, 141);
   border-style: groove;
   margin: 12px;
   padding: 8px;
