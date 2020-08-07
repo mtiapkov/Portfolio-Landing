@@ -1,7 +1,12 @@
+body {
+  background-color: rgb(231, 111, 81);
+}
+
+
 .right {
   float: right;
   margin: 12px;
-  padding: 4px;
+  padding: 8px;
 }
 
 .link {
@@ -10,11 +15,16 @@
 }
 
 .card {
+  background-color: rgb(233, 196, 106);
+  border: 5px  rgb(244, 162, 97);
+  border-style: outset;
   margin: 12px;
-  padding: 4px;
+  padding: 8px;
 }
 
 .jumbotron {
+  border: 10px solid;
   margin: 12px;
-  padding: 4px;
+  padding: 8px;
+  text-align: center;
 }
