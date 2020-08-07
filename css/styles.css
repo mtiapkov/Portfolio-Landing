@@ -7,7 +7,9 @@ body {
 .right {
   float: right;
   margin: 12px;
-  padding: 8px;
+  padding: 4px;
+  border: 5px rgb(181, 131, 141);
+  border-style: groove;
 }
 
 .link {

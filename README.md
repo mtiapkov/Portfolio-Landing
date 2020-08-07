@@ -12,18 +12,21 @@ This is a Protfolio Landing Page created as a friday project during first week o
 * Run index.html
 * See porduct in your browser window
 
+Alternatively - visit https://mtiapkov.github.io/Portfolio-Landing/
+
+
 ## Bugs/Issues
- There are no known bugs at the time
+ There are no known bugs at the time.
 
 ## Contact/Support
  For feedback/support you can reach via email: mark.tiapkov@gmail.com
 
 ## Technologies Used
 * HTML5
+* Markdown
 * Bootstrap
-* CSS
 
 ### License
-This site is licensed under the MIT license
+This site is licensed under the MIT license.
 
 Copyright © 2020 **_Mark Tiapkov_**
