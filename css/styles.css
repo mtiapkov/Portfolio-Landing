@@ -4,5 +4,17 @@
   padding: 4px;
 }
 
+.link {
+  font-weight: bold;
+  text-decoration: underline;
+}
 
+.card {
+  margin: 12px;
+  padding: 4px;
+}
 
+.jumbotron {
+  margin: 12px;
+  padding: 4px;
+}
