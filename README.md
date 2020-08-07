@@ -5,7 +5,7 @@
 #### By _Mark Tiapkov_
 
 ## Description
-This is a Protfolio Landing Page created as a friday project during first week of class at _Epicodus_. This page will be worked on as the cohort goes on.
+This is a Protfolio Landing Page created as a Friday Project during first week of class at _Epicodus_. This page will be worked on as the cohort goes on.
 
 ## Installation/Setup
 * Clone this repository
@@ -26,7 +26,7 @@ Alternatively - visit https://mtiapkov.github.io/Portfolio-Landing/
 * Markdown
 * Bootstrap
 
-### License
+## License
 This site is licensed under the MIT license.
 
 Copyright © 2020 **_Mark Tiapkov_**

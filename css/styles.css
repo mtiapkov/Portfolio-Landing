@@ -3,6 +3,23 @@ body {
   font-family: Georgia;
 }
 
+.jumbotron {
+  background-color: rgb(229, 152, 155);
+  border: 6px  rgb(181, 131, 141);
+  border-style: groove;
+  margin: 12px;
+  padding: 8px;
+  text-align: center;
+}
+
+.card {
+  background-color: rgb(229, 152, 155);
+  border: 6px  rgb(181, 131, 141);
+  border-style: groove;
+  margin: 12px;
+  padding: 8px;
+  font-size: 17px;
+}
 
 .right {
   float: right;
@@ -15,24 +32,6 @@ body {
 .link {
   font-weight: bold;
   text-decoration: underline;
-}
-
-.card {
-  background-color: rgb(229, 152, 155);
-  border: 6px  rgb(181, 131, 141);
-  border-style: groove;
-  margin: 12px;
-  padding: 8px;
-  font-size: 17px;
-}
-
-.jumbotron {
-  background-color: rgb(229, 152, 155);
-  border: 6px  rgb(181, 131, 141);
-  border-style: groove;
-  margin: 12px;
-  padding: 8px;
-  text-align: center;
 }
 
 .card-title {
